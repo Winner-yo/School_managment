@@ -101,7 +101,7 @@ npm install
 Create a `.env` file in the backend directory:
 ```env
 MONGO_URI=mongodb://127.0.0.1:27017/schoolDB
-JWT_SECRET=your_jwt_secret_key_here
+JWT_SECRET=replace_with_your_actual_secret_key
 ```
 
 Start the backend server:
