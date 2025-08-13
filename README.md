@@ -5,26 +5,26 @@ A comprehensive web-based school management system built with Node.js, Express, 
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login Page](public/login%20page_page-0001.jpg)
+<img src="public/login%20page_page-0001.jpg" alt="Login Page" width="600" />
 
 ### 👨‍💼 Admin Dashboard
 #### User Registration
-![Admin Register](public/admin%20register_page-0001.jpg)
+<img src="public/admin%20register_page-0001.jpg" alt="Admin Register" width="600" />
 
 #### Student Management
-![Admin Student Management](public/admin%20student.jpg)
+<img src="public/admin%20student.jpg" alt="Admin Student Management" width="600" />
 
 #### Teacher Management
-![Admin Edit Teacher](public/admin%20edit%20teacher_page-0001.jpg)
+<img src="public/admin%20edit%20teacher_page-0001.jpg" alt="Admin Edit Teacher" width="600" />
 
 ### 👨‍🏫 Teacher Dashboard
-![Teacher Dashboard](public/teachers%20dashboard_page-0001.jpg)
+<img src="public/teachers%20dashboard_page-0001.jpg" alt="Teacher Dashboard" width="600" />
 
 ### 👨‍🎓 Student Dashboard
-![Student Dashboard](public/student%20dashboard_page-0001.jpg)
+<img src="public/student%20dashboard_page-0001.jpg" alt="Student Dashboard" width="600" />
 
 ### 👤 Student Profile
-![Student Profile](public/student%20profile_page-0001.jpg)
+<img src="public/student%20profile_page-0001.jpg" alt="Student Profile" width="600" />
 
 ## 🚀 Features
 
