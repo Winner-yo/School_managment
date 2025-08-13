@@ -1,4 +1,4 @@
-'use client';
+'use client';// for hooks 
 
 import Login from './login/page';
 

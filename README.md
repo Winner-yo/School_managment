@@ -2,6 +2,30 @@
 
 A comprehensive web-based school management system built with Node.js, Express, MongoDB, and Next.js. This system provides role-based access control for administrators, teachers, and students with modern UI/UX design.
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](public/login%20page_page-0001.jpg)
+
+### 👨‍💼 Admin Dashboard
+#### User Registration
+![Admin Register](public/admin%20register_page-0001.jpg)
+
+#### Student Management
+![Admin Student Management](public/admin%20student.jpg)
+
+#### Teacher Management
+![Admin Edit Teacher](public/admin%20edit%20teacher_page-0001.jpg)
+
+### 👨‍🏫 Teacher Dashboard
+![Teacher Dashboard](public/teachers%20dashboard_page-0001.jpg)
+
+### 👨‍🎓 Student Dashboard
+![Student Dashboard](public/student%20dashboard_page-0001.jpg)
+
+### 👤 Student Profile
+![Student Profile](public/student%20profile_page-0001.jpg)
+
 ## 🚀 Features
 
 ### 🔐 Authentication & Authorization
